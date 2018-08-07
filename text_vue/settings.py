@@ -60,7 +60,10 @@ INSTALLED_APPS = [
 
     # Oscar App
     'widget_tweaks',
-] + get_core_apps()
+] + get_core_apps([
+    'yourappsfolder.order',
+    'yourappsfolder.promotions',
+])
 
 # Oscar necessary
 SITE_ID = 1
