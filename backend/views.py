@@ -32,6 +32,7 @@ def api_text(request):
         try:
             # 将请求json解析
             data = JSONParser().parse(request)
+            # request.POST.get('mm', '')
         except Exception as e:
             print(e.args)
         else:

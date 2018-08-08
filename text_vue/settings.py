@@ -63,6 +63,7 @@ INSTALLED_APPS = [
 ] + get_core_apps([
     'yourappsfolder.order',
     'yourappsfolder.promotions',
+    'yourappsfolder.catalogue',
 ])
 
 # Oscar necessary
