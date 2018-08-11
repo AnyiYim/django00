@@ -63,6 +63,7 @@ INSTALLED_APPS = [
 ] + get_core_apps([
     'yourappsfolder.order',
     'yourappsfolder.promotions',
+    'yourappsfolder.customer',
 ])
 
 # Oscar necessary
@@ -175,6 +176,14 @@ DATABASES = {
         'POST': '3306'
     }
 }
+
+# restframework 配置
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
+}
+
 
 # Password validation
 # https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators

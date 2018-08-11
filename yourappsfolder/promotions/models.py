@@ -1,7 +1,7 @@
 from oscar.apps.promotions.models import *  # noqa isort:skip
 from django.db import models
 from oscar.apps.promotions.models import Image
-
+from oscar.apps.promotions import app
 
 # 定制 promotioms 中 Image 模型
 class MyImage(Image):
