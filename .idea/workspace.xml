@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eea53819-30c4-4c17-9587-918b12fcdeb6" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/tesss.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models.py" afterDir="false" />
@@ -9,6 +10,12 @@
       <change beforePath="$PROJECT_DIR$/backend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/text_vue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_vue/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/text_vue/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_vue/urls.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/yourappsfolder/promotions/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_vue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_vue/settings.py" afterDir="false" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
       <change beforePath="$PROJECT_DIR$/yourappsfolder/promotions/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/yourappsfolder/promotions/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +37,13 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/text_vue/settings.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1288">
               <caret line="51" selection-start-line="51" selection-end-line="51" />
+=======
+            <state relative-caret-position="766">
+              <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
               <folding>
                 <element signature="e#309#318#0" expanded="true" />
               </folding>
@@ -39,6 +51,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/apps.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,11 +68,21 @@
               <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#33#71#0" expanded="true" />
+=======
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yourappsfolder/catalogue/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="e#63#91#0" expanded="true" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/views.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,10 +91,18 @@
               <folding>
                 <element signature="e#1#28#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yourappsfolder/catalogue/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/urls.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,19 +110,33 @@
               <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
+=======
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+              <folding>
+                <element signature="e#64#92#0" expanded="true" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/text_vue/urls.py">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/app.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1736">
               <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
               <folding>
                 <element signature="e#632#664#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="52">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
             </state>
           </provider>
         </entry>
@@ -129,8 +174,17 @@
         <option value="$PROJECT_DIR$/backend/models.py" />
         <option value="$PROJECT_DIR$/text_vue/settings.py" />
         <option value="$PROJECT_DIR$/backend/urls.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/backend/serializers.py" />
         <option value="$PROJECT_DIR$/backend/views.py" />
+=======
+        <option value="$PROJECT_DIR$/yourappsfolder/promotions/config.py" />
+        <option value="$PROJECT_DIR$/backend/views.py" />
+        <option value="$PROJECT_DIR$/yourappsfolder/promotions/app.py" />
+        <option value="$PROJECT_DIR$/text_vue/settings.py" />
+        <option value="$PROJECT_DIR$/yourappsfolder/catalogue/models.py" />
+        <option value="$PROJECT_DIR$/yourappsfolder/promotions/models.py" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
       </list>
     </option>
   </component>
@@ -149,9 +203,15 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="1220" />
     <option name="y" value="69" />
     <option name="width" value="648" />
+=======
+    <option name="x" value="1071" />
+    <option name="y" value="120" />
+    <option name="width" value="754" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
     <option name="height" value="916" />
   </component>
   <component name="ProjectView">
@@ -168,6 +228,7 @@
               <item name="text_vue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="text_vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="text_vue" type="462c0819:PsiDirectoryNode" />
               <item name="backend" type="462c0819:PsiDirectoryNode" />
@@ -181,6 +242,22 @@
               <item name="text_vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="text_vue" type="462c0819:PsiDirectoryNode" />
               <item name="yourappsfolder" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="django00" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django00" type="462c0819:PsiDirectoryNode" />
+              <item name="text_vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django00" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django00" type="462c0819:PsiDirectoryNode" />
+              <item name="yourappsfolder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django00" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django00" type="462c0819:PsiDirectoryNode" />
+              <item name="yourappsfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="catalogue" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
             </path>
             <path>
               <item name="text_vue" type="b2602c69:ProjectViewProjectNode" />
@@ -194,7 +271,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$USER_HOME$/下载/django-oscar-api-master" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -316,11 +397,19 @@
       <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49893162" weight="0.32983193" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50106835" side_tool="true" weight="0.6123949" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32948583" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.34942287" />
       <window_info active="true" anchor="right" id="Run" order="5" sideWeight="0.49893162" visible="true" weight="0.48078975" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32948583" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.1307364" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3294979" />
+      <window_info anchor="right" id="Run" order="5" sideWeight="0.49893162" weight="0.23771368" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2943376" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -379,6 +468,75 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/text_vue/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2366">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#309#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_vue/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_vue/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_vue/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_vue/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
     <entry file="file://$PROJECT_DIR$/backend/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -487,8 +645,13 @@
     <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/config.py" />
     <entry file="file://$USER_HOME$/anaconda3/envs/django00/lib/python3.6/site-packages/oscar/apps/promotions/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="28">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+=======
+        <state relative-caret-position="416">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
         </state>
       </provider>
     </entry>
@@ -528,8 +691,13 @@
     </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/django00/lib/python3.6/site-packages/rest_framework/compat.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="3892">
           <caret line="145" selection-start-line="145" selection-end-line="145" />
+=======
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
         </state>
       </provider>
     </entry>
@@ -540,14 +708,22 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/backend/apps.py">
+=======
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/models/fields/__init__.py">
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/text_vue/settings.py">
+=======
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/django/urls/base.py">
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1288">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
@@ -564,17 +740,69 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/anaconda3/envs/django00/lib/python3.6/site-packages/django/urls/conf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="75" selection-start-line="75" selection-end-line="75" />
+=======
+    <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4981" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/backend/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/catalogue/product_attributes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/catalogue/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/text_vue/urls.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1736">
           <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+=======
+        <state relative-caret-position="702">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
           <folding>
             <element signature="e#632#664#0" expanded="true" />
           </folding>
@@ -583,24 +811,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/urls.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="224">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+=======
+        <state relative-caret-position="5382">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/backend/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#33#71#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/promotions/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/anaconda3/envs/django00/lib/python3.6/site-packages/rest_framework/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -635,6 +881,82 @@
           <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
           <folding>
             <element signature="e#1#28#0" expanded="true" />
+=======
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/catalogue/abstract_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_vue/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="766">
+          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="e#309#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/catalogue/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="55" column="46" lean-forward="true" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yourappsfolder/catalogue/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/promotions/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yourappsfolder/promotions/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding>
+            <element signature="e#64#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/django00/lib/python3.6/site-packages/oscar/apps/catalogue/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#31#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yourappsfolder/catalogue/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#63#91#0" expanded="true" />
+>>>>>>> 777bb2b7f840e70ee4f049fd7838a3313605e8e0
           </folding>
         </state>
       </provider>

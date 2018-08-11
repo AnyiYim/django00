@@ -64,6 +64,8 @@ INSTALLED_APPS = [
     'yourappsfolder.order',
     'yourappsfolder.promotions',
     'yourappsfolder.customer',
+    'yourappsfolder.catalogue',
+
 ])
 
 # Oscar necessary
