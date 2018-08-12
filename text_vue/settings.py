@@ -63,8 +63,8 @@ INSTALLED_APPS = [
 ] + get_core_apps([
     'yourappsfolder.order',
     'yourappsfolder.promotions',
-    'yourappsfolder.customer',
-    'yourappsfolder.catalogue',
+    # 'yourappsfolder.customer',
+    # 'yourappsfolder.catalogue',
 
 ])
 
@@ -182,7 +182,9 @@ DATABASES = {
 # restframework 配置
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
-        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+        # 注：'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'适用于添加身份验证和权限以后。
+        #    而使用 @api_view 装饰器将报错
+        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
     ]
 }
 
